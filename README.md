@@ -1,12 +1,10 @@
-
-
-<br/>
-
-### Olá! Eu sou o Daniel! 👋👋
+![Header](./bk.png)
 
 ### Aqui está algumas das minhas redes para você se conectar comigo.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-san-ba8281267/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/321738424660918282/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BEM-VINDO+AO+MEU+GITHUB!!;VEJA+MINHAS+HABILIDADES!)](https://git.io/typing-svg)
 
 ## Tecnologias do meu dia a dia
 
@@ -32,4 +30,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-san8&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-san8&hide=contribs,issues,stars&show_icons=true&theme=gruvbox)
-
