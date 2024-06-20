@@ -33,7 +33,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-san8&hide=contribs,issues,stars&show_icons=true&theme=gruvbox)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-san8&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-san8&hide=contribs,issues,stars&show_icons=true&theme=gruvbox)
