@@ -36,4 +36,4 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-san8&hide=contribs,issues,stars&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-san8&hide=contribs,issues,stars&show_icons=true&theme=gruvbox&count_private=true)
